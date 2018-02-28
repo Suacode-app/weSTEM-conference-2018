@@ -44,7 +44,7 @@ void draw() //runs continuously
 
 //mouseX and mouseY are in-built variables, they are updated by the system to track the location of the touch
 
- text("weSTEM 😉", mouseX, mouseY); //shows text "Prince" at the position of the mouse
+ text("weSTEM 😉", mouseX, mouseY); //shows the text "weSTEM 😉" at the position of the mouse
 
  text(score, 3*width/4,height/2); //show the score on the right side of the ball
 
