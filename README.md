@@ -5,9 +5,10 @@ Click the top right button
 Click Tools  
 Click Git Manager  
 Click Clone Repository  
-Enter remote address as: "git://github.com/westem-conference2018/weSTEM-conference-2018.git" Local name as: "project"  
+Enter remote address as: "git://github.com/westem-conference2018/weSTEM-conference-2018.git"  
+Local name as: "westem"  
 Click Clone  
-Now, Click top left button, Click Sketches, there should be a folder called project  
+Now, Click top left button and Click Sketches, there should be a folder called project  
 Click it and choose one of the code files and click the play button on the top menu!  
 Done!!  
   
